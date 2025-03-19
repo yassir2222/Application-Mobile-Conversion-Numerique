@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomTextInput" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense">
+        <item name="boxStrokeColor">@color/primaryColor</item>
+        <item name="hintTextColor">@color/secondaryColor</item>
+        <item name="boxBackgroundColor">@color/white</item>
+    </style>
+
+</resources>
